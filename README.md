@@ -5,12 +5,12 @@
 - 9ヶ月コース 
 - 中村蒼奈
 
-###動作方法
-'''コマンドライン上
-`git clone `
-`cd ~/coachtech/laravel/user`
-`open index.blade.php`
-'''
+### 動作方法
+```html
+- cd ~/coachtech/laravel/user
+- git clone git@github.com/ainasan0321/user
+- open index.blade.php
+```
 
 
 
